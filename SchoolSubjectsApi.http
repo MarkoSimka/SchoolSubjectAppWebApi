@@ -1,0 +1,6 @@
+@SchoolSubjectsApi_HostAddress = http://localhost:5055
+
+GET {{SchoolSubjectsApi_HostAddress}}/schoolSubjects/
+Accept: application/json
+
+###
